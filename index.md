@@ -18,13 +18,13 @@ I'm glad you are here.  I have learned a lot through my experiences as a drone p
 <script>
 function myFunction() {
   document.getElementById("demo1").innerHTML = "Why did you click?";
-  document.getElementById("demo2").innerHTML = "I wanted To!";
+  document.getElementById("demo2").innerHTML = "I TOLD YOU NOT TO!";
 }
 </script>
 <script>
 function myFunction2() {
-  document.getElementById("demo1").innerHTML = "Im glad you clicked the bottom button";
-  document.getElementById("demo2").innerHTML = "Do you know what would happen if you clicked the top?";
+  document.getElementById("demo1").innerHTML = "Im glad you clicked the bottom button :)";
+  document.getElementById("demo2").innerHTML = "I can tell you are good at following instructions ;)";
 }
 </script>
 <button type="button" onclick="myFunction2()">Do not click this bottom button
