@@ -9,7 +9,7 @@ I'm glad you are here.  I have learned a lot through my experiences as a drone p
 
 <p>If You would like to learn more, You can only choose one, neither is a good idea! </p>
 
-<button type="button" onclick="myFunction()">DO NOT CLICK
+<button type="button" onclick="myFunction()">DO NOT CLICK this top button
 !</button>
 
 <p id="demo1"></p>
@@ -27,7 +27,7 @@ function myFunction2() {
   document.getElementById("demo2").innerHTML = "Do you know what would happen if you clicked the top?";
 }
 </script>
-<button type="button" onclick="myFunction2()">DO NOT CLICK
+<button type="button" onclick="myFunction2()">Do not click this bottom button
 !</button>
 </body>
 </html>
