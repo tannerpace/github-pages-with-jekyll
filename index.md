@@ -47,7 +47,7 @@ function myFunction2() {
 <head>
 <style>
 body {
- background-color: lightblue;
+ background-color: pink;
 }
 
 h1 {
