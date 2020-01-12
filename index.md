@@ -7,7 +7,7 @@ I'm glad you are here.  I have learned a lot through my experiences as a drone p
 
 <h2>Welcome to My website!</h2>
 
-<p>If You would like to learn more, and are not easily influenced </p>
+<p>If You would like to learn more, You can only choose one, neither is a good idea! </p>
 
 <button type="button" onclick="myFunction()">DO NOT CLICK
 !</button>
@@ -21,7 +21,13 @@ function myFunction() {
   document.getElementById("demo2").innerHTML = "I wanted To!";
 }
 </script>
-<button type="button" onclick="myFunction()">DO NOT CLICK
+<script>
+function myFunction2() {
+  document.getElementById("demo1").innerHTML = "Im glad you clicked the bottom button";
+  document.getElementById("demo2").innerHTML = "Do you know what would happen if you clicked the top?";
+}
+</script>
+<button type="button" onclick="myFunction2()">DO NOT CLICK
 !</button>
 </body>
 </html>
