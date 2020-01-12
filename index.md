@@ -5,7 +5,7 @@ I'm glad you are here.  I have learned a lot through my experiences as a drone p
 <html>
 <body>
 
-<h2>Welcome to My website!</h2>
+<h4>Welcome to My website!</h4>
 
 <p>If You would like to learn more, You can only choose one, neither is a good idea! </p>
 
@@ -29,5 +29,31 @@ function myFunction2() {
 </script>
 <button type="button" onclick="myFunction2()">Do not click this bottom button
 !</button>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>Hi There</h1>
+<p>Im inside the computer.</p>
+
 </body>
 </html>
