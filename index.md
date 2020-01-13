@@ -55,12 +55,12 @@ function myFunction2() {
 !</button>
 </body>
 </html>
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
 body {
- background-color: #FFFFFF;
+ background-color: #lightgrey;
 }
 
 h1 {
