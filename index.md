@@ -4,7 +4,6 @@ You have found the home of Tanner Bleakley
 I'm glad you are here.  
 <hr>
 This home is under construction.
-
 <hr>
 I would like to share my perspective. I prefer certain hardware. Let me tell you why I fly a Phantom 4 Pro
 <hr>
@@ -23,20 +22,18 @@ It can shoot 60 fps at 4k. The Mavic2 can only shoot 30 fps at 4k.
 The Phantom 4 Pro also has a mechanical shutter that is better for mapping. 
 <hr>
 The digital shutter of the Mavic 2 Pro can cause the dreaded rolling shutter effect. 
-
+<hr>
+If you are willing to make the convenience sacrifice, Phantom 4 Pro is better all around. 
+<hr>
+If you can still get it.
 
 <html><hr>
 <body>
 
-<button type="button2" onclick="myFunction3()">Dont waste time clicking here
-!</button>
-<hr>
 
-<h4>Welcome to My website!</h4>
+<p>If You would like to learn more, You can do some research, neither is a good idea! ;) </p>
 
-<p>If You would like to learn more, You can only choose one, neither is a good idea! </p>
-
-<button type="button" onclick="myFunction()">DO NOT CLICK this top button
+<button type="button" onclick="myFunction()">What would I pick now
 !</button>
 
 <p id="demo1"></p>
@@ -44,8 +41,8 @@ The digital shutter of the Mavic 2 Pro can cause the dreaded rolling shutter eff
 
 <script>
 function myFunction() {
- document.getElementById("demo1").innerHTML = "Why did you click?";
- document.getElementById("demo2").innerHTML = "I TOLD YOU NOT TO!";
+ document.getElementById("demo1").innerHTML = "Any thing not made by DJI?";
+ document.getElementById("demo2").innerHTML = "Who wants to be software limited?";
 }
 </script>
 <script>
@@ -54,7 +51,7 @@ function myFunction2() {
  document.getElementById("demo2").innerHTML = "I can tell you are good at following instructions ;)";
 }
 </script>
-<button type="button" onclick="myFunction2()">Do not click this bottom button
+<button type="button" onclick="myFunction2()">You should click this also
 !</button>
 </body>
 </html>
