@@ -13,4 +13,3 @@ If you are willing to make the convenience sacrifice, Phantom 4 Pro is better al
 If you can still get it.
 
 
-</html>
