@@ -10,6 +10,5 @@ The Phantom 4 Pro also has a mechanical shutter that is better for mapping.
 The digital shutter of the Mavic 2 Pro can cause the dreaded rolling shutter effect. 
 If you are willing to make the convenience sacrifice, Phantom 4 Pro is better all around. 
 <hr>
-If you can still get it.
-
+The 2D maps and 3D models generated from drone imagery not only provide an aerial view of your project, but they also include an amazing set of data that one can and analyze and measure.
 
